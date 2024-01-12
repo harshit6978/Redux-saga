@@ -1,26 +1,22 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "Priceproduct": "sdsdsd",
+      "price": "223",
+      "id": 1
     },
     {
+      "Priceproduct": "sdsdsded",
+      "price": "2233",
       "id": 2
     },
     {
-      "card": "hello",
-      "prodyctr": "hekko",
+      "Priceproduct": "dsfdf",
+      "price": "33",
       "id": 3
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
